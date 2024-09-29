@@ -1,3 +1,3 @@
-# udemy_intermediatework
+# SUPABASE DAN LOCAL DAATABASE
 
-A new Flutter project.
+Flutter project that I made to learn and understand SUPABASE and LOCAL DATABASE (Shared Preferences, SQFLite, MOOR, HIVE)
